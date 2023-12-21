@@ -1,0 +1,104 @@
+[
+  {
+    "company": "CreativeCo",
+    "city": "Москва",
+    "job_title": "Kotlin backend разработчик",
+    "skills": "Бэкенд разработчик, Старший (Senior) • Kotlin • Java Spring Framework • PostgreSQL • Английский язык • Java • Базы данных • ClickHouse"
+  },
+  {
+    "company": "LEADS",
+    "city": "Москва",
+    "job_title": "Разработчик ELMA",
+    "skills": "Фронтенд разработчик, Средний (Middle) • JavaScript • TypeScript • Оптимизация бизнес-процессов"
+  },
+  {
+    "company": "CyberIT",
+    "city": "Москва",
+    "job_title": "C++ разработчик",
+    "skills": "Бэкенд разработчик • С++ builder • C++ • Git • Linux • ООП • Английский язык • Python • Алгоритмы и структуры данных"
+  },
+  {
+    "company": "НТЦ «Автоматизация, измерения, инжиниринг»",
+    "city": "Москва",
+    "job_title": "Frontend-разработчик (Angular)",
+    "skills": "Фронтенд разработчик, Младший (Junior) • JavaScript • TypeScript • Angular • Angular.js • HTML • CSS • Валидная верстка • Git • REST"
+  },
+  {
+    "company": "Oneclick LIFE",
+    "city": "Москва",
+    "job_title": "Product Manager",
+    "skills": "Менеджер продукта, Средний (Middle) • Разработка продукта • Управление продуктами • Прототипирование • Управление людьми • Презентации • Планирование"
+  },
+  {
+    "company": "Clickavia",
+    "city": "Москва",
+    "job_title": "Data Analyst",
+    "skills": "Аналитик по данным, Младший (Junior) • Python • SQL"
+  },
+  {
+    "company": "Railog",
+    "city": "Москва",
+    "job_title": "Разработчик С# (.NET, WPF). Удалённая работа",
+    "skills": "Десктоп разработчик, Средний (Middle) • C# • WPF • DevExpress • Microsoft SQL • SQL • .NET • Entity framework • .NET Core • PostgreSQL"
+  },
+  {
+    "company": "НПП «ИТЭЛМА»",
+    "city": "Москва",
+    "job_title": "Инженер по сетевым технологиям",
+    "skills": "Сетевой инженер, Средний (Middle) • Switching • Cisco CCNP • OSPF • BGP • MPLS • Многопротокольная коммутация по меткам • Border Gateway Protocol • Osi model • Сетевые технологии • Администрирование сетей"
+  },
+  {
+    "company": "Implica",
+    "city": "Москва",
+    "job_title": "Backend Python Middle+ разработчик",
+    "skills": "Бэкенд разработчик, Средний (Middle) • Python • Django • PostgreSQL • SOAP • Redis • Nginx • SQL"
+  },
+  {
+    "company": "Implica",
+    "city": "Москва",
+    "job_title": "Аналитик 1С Middle+",
+    "skills": "Аналитик 1С • Agile • Waterfall • Анализ требований • Администрирование 1С • Компоновка • 1C: ERP • Web • HTTP • Jira • BPMN"
+  },
+  {
+    "company": "СберТех",
+    "city": "Москва",
+    "job_title": "Middle java разработчик (Platform V Paus)",
+    "skills": "Бэкенд разработчик, Средний (Middle) • Java • Java Spring Framework • Docker • Kubernetes"
+  },
+  {
+    "company": "АРТЕСС",
+    "city": "Москва",
+    "job_title": "Фулстек разработчик",
+    "skills": "Фулстек разработчик, Средний (Middle) • Python • PHP • Flutter • Dart • HTML • CSS • JavaScript • Pug • Webpack • SCSS"
+  },
+  {
+    "company": "Лоция",
+    "city": "Москва",
+    "job_title": "Разработчик Oracle",
+    "skills": "Разработчик баз данных, Средний (Middle) • Oracle PL/SQL • SQL • Delphi"
+  },
+  {
+    "company": "EnerGO Technologies",
+    "city": "Москва",
+    "job_title": "АНАЛИТИК / Python разработчик",
+    "skills": "Аналитик по данным, Старший (Senior) • Python • PostgreSQL • Dash • Анализ данных • Математическая статистика • Визуализация"
+  },
+  {
+    "company": "Verme",
+    "city": "Москва",
+    "job_title": "Middle Python Developer",
+    "skills": "Бэкенд разработчик • Python • Django • SQL"
+  },
+  {
+    "company": "Verme",
+    "city": "Москва",
+    "job_title": "Технический Product manager",
+    "skills": "Менеджер продукта • Управление людьми • Разработка продукта • Управление продуктами • Продуктовая аналитика • Python • Django • Базы данных"
+  },
+  {
+    "company": "NN Media",
+    "city": "Москва",
+    "job_title": "Junior / Middle Node.js Developer",
+    "skills": "Бэкенд разработчик, Средний (Middle) • Node.js • RESTful API • Базы данных • Проектирование архитектуры приложений • Высоконагруженные системы • Redis • Машинное обучение • Нейронные сети"
+  }
+]
